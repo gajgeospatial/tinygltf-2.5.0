@@ -6,9 +6,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="N:\Development\Dev_Base\tinygltf-2.5.0\CMakeLists.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <Filter Include="Source Files">
       <UniqueIdentifier>{EAB6F2AC-78F0-31F5-98C7-B9BBF7531C38}</UniqueIdentifier>
     </Filter>

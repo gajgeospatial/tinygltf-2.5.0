@@ -20,9 +20,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="N:\Development\Dev_Base\tinygltf-2.5.0\examples\validator\CMakeLists.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <Filter Include="Header Files">
       <UniqueIdentifier>{65CC8EB4-F7EA-32FC-917D-E38F6087A96C}</UniqueIdentifier>
     </Filter>
