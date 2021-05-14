@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="N:\Development\Dev_Base\tinygltf-2.5.0\examples\validator\app\tinygltf-validate.cc">
+    <ClCompile Include="..\..\..\examples\validator\app\tinygltf-validate.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="N:\Development\Dev_Base\tinygltf-2.5.0\examples\validator\src\json-schema-draft4.json.cpp">
+    <ClCompile Include="..\..\..\examples\validator\src\json-schema-draft4.json.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="N:\Development\Dev_Base\tinygltf-2.5.0\examples\validator\src\json-uri.cpp">
+    <ClCompile Include="..\..\..\examples\validator\src\json-uri.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="N:\Development\Dev_Base\tinygltf-2.5.0\examples\validator\src\json-validator.cpp">
+    <ClCompile Include="..\..\..\examples\validator\src\json-validator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="N:\Development\Dev_Base\tinygltf-2.5.0\examples\validator\src\json-schema.hpp">
+    <ClInclude Include="..\..\..\examples\validator\src\json-schema.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
